@@ -18,3 +18,5 @@ For install the commands with Plug is highly recommend see the documentation of 
 #### Theme
 Is required install dracula theme
 
+#### Execute nodejs command = Shift + Z
+
